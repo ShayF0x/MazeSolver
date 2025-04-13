@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
 </p>
 
-![app image](\assets\images\app.png)
+![app image](/assets/images/app.png)
 
 ---
 
